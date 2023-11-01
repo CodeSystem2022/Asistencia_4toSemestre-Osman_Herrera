@@ -1,5 +1,5 @@
 # Asistencia_4toSemestre-Osman_Herrera
-![repository-open-graph-template](https://user-images.githubusercontent.com/111594677/232668817-8e98b10a-384f-4730-a592-ff342a4272ca.png)
+![]()
 
 *Repositorio para colocar la asistencia correspondiente del alumno del grupo "Primates"*
 

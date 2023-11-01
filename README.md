@@ -1,5 +1,6 @@
 # Asistencia_4toSemestre-Osman_Herrera
-![]()
+
+![](https://github.com/CodeSystem2022/Asistencia_4toSemestre-Osman_Herrera/blob/main/Fondo_UTN.jpg)
 
 *Repositorio para colocar la asistencia correspondiente del alumno del grupo "Primates"*
 
